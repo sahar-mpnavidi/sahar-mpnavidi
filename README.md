@@ -8,9 +8,13 @@ Ph.D. in Computer Science | CEO at Atfino | University Lecturer
 I stand at the intersection of academia and industry. My focus is on architecting complex systems and managing technology-driven projects to transform abstract ideas into real-world, scalable products.
 
 🔭 **Currently:** Overseeing the development of innovative software solutions as the CEO of Atfino.
+<br />
 🎓 **Academic Expertise:** Holding a Ph.D. in Computer Science with a specialization in Computer Systems Architecture.
+<br />
 🏫 **Teaching:** Passionate about mentoring and transferring knowledge to the next generation of engineers in academic settings.
+<br />
 💬 **Ask me about:** Software architecture, project management, and technical strategies.
+<br />
 📫 **How to reach me:** sahar.mpnavidi@gmail.com
 </div>
 
