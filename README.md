@@ -1,4 +1,4 @@
-# Hi there, I'm Sahar Mohammadpourian Navidi 👋
+# Hi there, I'm Sahar Mohammadpourian Navidi
 
 **Ph.D. in Computer Systems Architecture | Reinforcement Learning & Edge Computing Researcher | AI Engineer & Programmer | Former CEO & University Lecturer**
 
