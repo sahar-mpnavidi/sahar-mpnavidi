@@ -1,57 +1,32 @@
+# Hi there, I'm Sahar Mohammadpourian Navidi 👋
 
-<div align="left" dir="ltr">
+**Ph.D. in Computer Systems Architecture | Reinforcement Learning & Edge Computing Researcher | AI Engineer & Programmer | Former CEO & University Lecturer**
 
-Hi, I'm Sahar Mohammad Pouriyan Navidi 👋
+I stand at the intersection of academic research and hands-on software engineering. My focus is on taking complex research ideas from mathematical formulation to **production-grade, reproducible code**, architecting intelligent systems that solve real-world problems in dynamic environments.
 
-Ph.D. in Computer Science | CEO at Atfino | University Lecturer
+### 🔭 Current Focus & Research
+*   **Deep Reinforcement Learning (DRL):** Specializing in Hierarchical RL, Deep Recurrent Q-Networks (LSTM/DRQN), and Learning Automata.
+*   **Edge/Fog Computing & IoV:** Resource management, computation offloading, and mobility modeling (Cellular Automata) in 6G-enabled Internet of Vehicles.
+*   **Hands-on Engineering:** I build the systems I design from scratch. My core work (LA-DRQN framework) was implemented entirely in **Python/PyTorch** and integrated with a Java-based simulator via subprocess I/O, without relying on high-level RL libraries.
 
-I stand at the intersection of academia and industry. My focus is on architecting complex systems and managing technology-driven projects to transform abstract ideas into real-world, scalable products.
+### 🚀 Featured Projects & Publications
+*   📄 **LA-DRQN Framework:** Published in the *Journal of Grid Computing* (Springer, Q1). Achieved 24.7% lower latency and 35.3% lower energy consumption compared to DQN baselines. 
+*   📚 **Open-Source Dataset:** Available on Mendeley Data (DOI: 10.17632/jnys6pzypz.2).
+*   📘 **Technical English for CS Students:** An open-source guidebook bridging the gap between technical knowledge and professional communication. *(Link: [English-for-Computer-Science](https://github.com/sahar-mpnavidi/English-for-Computer-Science))*
 
-🔭 **Currently:** Overseeing the development of innovative software solutions as the CEO of Atfino.
-<br />
-🎓 **Academic Expertise:** Holding a Ph.D. in Computer Science with a specialization in Computer Systems Architecture.
-<br />
-🏫 **Teaching:** Passionate about mentoring and transferring knowledge to the next generation of engineers in academic settings.
-<br />
-💬 **Ask me about:** Software architecture, project management, and technical strategies.
-<br />
-📫 **How to reach me:** sahar.mpnavidi@gmail.com
-</div>
+### 🎓 Background
+*   **Ph.D.** in Computer Systems Architecture (Qazvin Islamic Azad University).
+*   **11+ Years of Teaching:** Passionate about mentoring the next generation of engineers (B.Sc. & Associate levels). Recognized as an *Outstanding Instructor*.
+*   **Industry Leadership:** Former CEO & Lead AI Architect at Affino, managing full SDLC and leading a team of 8 engineers to bridge AI models with industrial applications.
 
-<br />
+### 💬 Ask me about
+Reinforcement Learning, Deep Learning, Edge Computing, Software Architecture, Python/PyTorch, or bridging the gap between academia and industry.
 
-<div align="center">
-
-### 🛠️ Skills & Tools / مهارت‌ها و ابزارها
-
-![System Architecture](https://img.shields.io/badge/Focus-System_Architecture-blue?style=flat-square)
-![Project Management](https://img.shields.io/badge/Role-Project_Management-green?style=flat-square)
-![Teaching](https://img.shields.io/badge/Passion-Teaching-orange?style=flat-square)
-
-</div>
+### 📫 How to reach me
+*   📧 Email: [mpnavidi.s@gmail.com](mailto:mpnavidi.s@gmail.com)
+*   🎓 Google Scholar: [Sahar Mohammadpourian Navidi](https://scholar.google.com/citations?user=ysJd41gAAAJ&user=ysJd41gAAAAJ)
+*   🔗 LinkedIn: [Sahar Mohammadpourian Navidi](https://www.linkedin.com/in/sahar-mohammadpourian-navidi-a503b0415/?isSelfProfile=true)
+*   🆔 ORCID: [0009-0003-3643-6375](https://orcid.org/0009-0003-3643-6375)
 
 ---
-
-<div align="center">
-
-### 📊 GitHub Activity / فعالیت‌های گیت‌هاب
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sahar-mpnavidi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Sahar's GitHub Stats" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahar-mpnavidi&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 Connect with me / راه‌های ارتباطی
-
-<a href="https://atfino.com" target="blank"><img src="https://img.shields.io/badge/Website-Atfino-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="atfino" /></a>
-<a href="https://github.com/atfinosoft" target="blank"><img src="https://img.shields.io/badge/Organization-Atfino-black?style=for-the-badge&logo=github&logoColor=white" alt="atfino-github" /></a>
-<a href="mailto:sahar.mpnavidi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-
-</div>
+*“Ability and impact cannot be summarised in a few bullet points. I aim to build intelligent systems that make a meaningful impact.”*
