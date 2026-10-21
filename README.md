@@ -27,6 +27,8 @@ Reinforcement Learning, Deep Learning, Edge Computing, Software Architecture, Py
 *   🎓 Google Scholar: [Sahar Mohammadpourian Navidi](https://scholar.google.com/citations?user=ysJd41gAAAJ&user=ysJd41gAAAAJ)
 *   🔗 LinkedIn: [Sahar Mohammadpourian Navidi](https://www.linkedin.com/in/sahar-mohammadpourian-navidi-a503b0415/?isSelfProfile=true)
 *   🆔 ORCID: [0009-0003-3643-6375](https://orcid.org/0009-0003-3643-6375)
+*   📊 https://data.mendeley.com/datasets/compare/jnys6pzypz
+
 
 ---
 *“Ability and impact cannot be summarised in a few bullet points. I aim to build intelligent systems that make a meaningful impact.”*
